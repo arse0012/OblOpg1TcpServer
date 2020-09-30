@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OblOpg1TCPClient
+namespace TCPClient
 {
     public class BikeClient
     {

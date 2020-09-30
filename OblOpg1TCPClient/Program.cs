@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OblOpg1TCPClient
+namespace TCPClient
 {
     class Program
     {

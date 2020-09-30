@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OblOpg1TCPServer
+namespace TCPServer
 {
     class Program
     {

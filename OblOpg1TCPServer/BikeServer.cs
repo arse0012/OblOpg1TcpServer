@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 
-namespace OblOpg1TCPServer
+namespace TCPServer
 {
     public class BikeServer
     {
