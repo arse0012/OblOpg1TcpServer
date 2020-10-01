@@ -6,7 +6,10 @@ namespace TCPServer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BikeServer bike1 = new BikeServer();
+            bike1.Start();
+
+            Console.ReadLine();
         }
     }
 }

@@ -6,7 +6,10 @@ namespace TCPClient
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BikeClient bike1= new BikeClient();
+            bike1.Start();
+
+            Console.ReadLine();
         }
     }
 }
